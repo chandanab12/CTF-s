@@ -1,8 +1,8 @@
 # CTF-s
 
-#Image Analysis
+# Image Analysis
 
-To find the geoloacation of an image or metadata - Use EXIFTOOL
+To find the geolocation of an image or metadata - Use ExifTool
 1. (https://exif.tools/upload.php)
 2. (https://www.pic2map.com/)
 3. 

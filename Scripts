@@ -1,0 +1,22 @@
+## RSA 
+
+When n,e,c or p,q values are given and you need to decrypt a msg 
+
+import gmpy2 
+#gmpy2 is a library that is used for easy calculations 
+e =
+p =
+q =
+n = p*q
+c = [ ] #enter encrypted msg here if you have it 
+phi = (p-1) * (q-1)
+d = gmpy2.invert(e,phi)
+print(d)
+
+for i in c:
+ m= pow(i,d,n)
+ print(chr(m)) 
+
+print("")
+
+

@@ -20,6 +20,8 @@ Kali Commands
 
 Barcode Interpretor (https://online-barcode-reader.inliteresearch.com/)
 
+[StegTool](https://georgeom.net/StegOnline/checklist)
+
 
 ## WHOIS Lookup 
 
@@ -44,5 +46,6 @@ Barcode Interpretor (https://online-barcode-reader.inliteresearch.com/)
 
 - [Dcode](https://www.dcode.fr/tools-list) Cipher Identifier
 
-- 
+- [Boxentriq](https://www.boxentriq.com/)  Code breaker, cipher identifier, puzzle solver
+
 - 

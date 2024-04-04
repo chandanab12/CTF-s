@@ -33,7 +33,7 @@ Barcode Interpretor (https://online-barcode-reader.inliteresearch.com/)
 (https://keys.openpgp.org/) To look for KEY ID or Fingerprints
 
 
-(http://keyserver.ubuntu.com/) To also check for key creation, and expiry times
+(http://keyserver.ubuntu.com/) To also check for key creation and expiry times
 
 
 (http://pgp.mit.edu/)
@@ -49,3 +49,28 @@ Barcode Interpretor (https://online-barcode-reader.inliteresearch.com/)
 - [Boxentriq](https://www.boxentriq.com/)  Code breaker, cipher identifier, puzzle solver
 
 - 
+
+# Network Analysis
+
+Kali Commands:
+- dig (domain name)
+
+
+# Forensics
+
+To analyze a zip file  | unzip filename
+ls commands 
+- ls -l
+- ls -la 
+
+If there is a .git repository, we can leverage git commands to find out more about the commits and extract information
+
+
+git log | To check the commits 
+
+
+git show (commit details) | to check a particular commit
+
+git branch | to check all other possible branches 
+
+git checkout (branch_name) | to move to a particular branch 

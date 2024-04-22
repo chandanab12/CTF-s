@@ -2,6 +2,10 @@
 
 A quick cheat sheet to participate in CTF's 
 
+https://docs.google.com/spreadsheets/d/1kbpERN2QCcYjCfLT2RgkNpioFcj9jcAsCsvhA3355fw/edit#gid=0
+
+https://docs.google.com/document/d/13jy41Ux-F66Oo_vcaxwJ4FohoUDDfTr5uWs0H60eRu4/mobilebasic
+
 # OSINT
 
 ## Image Analysis
